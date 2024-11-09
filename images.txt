@@ -1,9 +1,10 @@
+pycharm-guide
 #docker-android
 
 #mysql
 
 #nginx
-docker_image_pusher
+#docker_image_pusher
 #docker-android
 
 
